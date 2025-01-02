@@ -7,6 +7,7 @@ This project focuses on using Description Logic (DL) to model real-world entitie
 
 ## Section 1: Diagram
 A diagram  likely visualizes the relationships and hierarchies described in subsequent sections. The diagram typically illustrates how entities like doctors, patients, departments, and treatments interact.
+
 ![image](https://github.com/user-attachments/assets/494e4c71-81e5-4a28-8b17-02f4875f0aa5)
 
 ---
